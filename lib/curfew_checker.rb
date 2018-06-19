@@ -5,9 +5,7 @@ puts "get home"
 
 elsif time >= 11
   puts "it's past curfew"
-else 
-  puts "it is not past curfew"
-  end
+
 
 
   elsif time <= 11
